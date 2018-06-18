@@ -6,3 +6,5 @@
 <br/>
 <h2> High Level Design </h2>
 <img src="Layout.JPG" width="600px">
+
+Some future implementations could including an additional input, such as total price, and having it calculate how much the tip and tip percentage would be.
